@@ -16,3 +16,7 @@ from 2004 to 2018, using data from data.gov.sg.
 
 ## How to Run
 Open the notebook directly in Google Colab by clicking the badge below.
+![Chart 1](Image%201.png)
+![Chart 2](Image%202.png)
+![Chart 3](Image%203.png)
+![Chart 4](Image%204.png)
